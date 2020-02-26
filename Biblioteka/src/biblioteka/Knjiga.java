@@ -3,7 +3,7 @@ package biblioteka;
 import java.util.List;
 
 public class Knjiga {
-	
+	//Dodat komentar
 	private String naslov;
 	private String isbn;
 	private List<Autor> autori;
